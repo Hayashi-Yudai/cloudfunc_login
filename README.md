@@ -8,3 +8,7 @@ This program assumes that authentication infos are stored in google BigQuery.
 ## Requirements
 
 - Go 1.13
+
+## In Cloud Functions
+
+For use of this example, copy all except for `EnvLoad` and `main` functions.
